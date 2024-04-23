@@ -7,7 +7,6 @@ let mouf_w;
 let mouf_h;
 let woop_x;
 let woop_y;
-let dance;
 
 let song;
 let vocals;
@@ -26,7 +25,6 @@ function preload() {
   woop = loadImage('wooper.png');
   grin = loadImage('grin.png');
   mouf = loadImage('mouf.png');
-  dance = loadImage('dance.gif');
 }
 
 function setup() {
