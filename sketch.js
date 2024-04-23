@@ -125,7 +125,6 @@ function draw() {
     else {
       image(grin, woop_x + 175, woop_y + 110, grin.width / 2, grin.height / 2);
     }
-    image(dance, woop_x + woop.width, woop_y);
   }
 }
 function togglePlay() {
